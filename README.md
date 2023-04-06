@@ -1,7 +1,7 @@
 ## Valar Morghulis 👋
 
 <div align="center">
-  Seja bem-vindo(a), ao meu perfil do Github! Meu nome é Maria e atualmente sou Trainne de desenvolvimento de softwares.
+  Seja bem-vindo(a), ao meu perfil do Github! Meu nome é Maria e atualmente trabalho com manutenção e desenvolvimento de softwares.
 <br>
 <br>
   Neste perfil, você encontrará diversos projetos e trabalhos desenvolvidos por mim, utilizando algumas linguagens de programação e ferramentas. Fique a vontade para explorar os repositórios e deixar sugestões e feedbacks.
