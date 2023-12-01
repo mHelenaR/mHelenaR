@@ -27,7 +27,7 @@
   
   ### Atividades:
 
-  ![snake animation](https://github.com/mHelenaR/mHelenaR/blob/output/github-contribution-grid-snake2.svg)
+   ![Snake animation](https://github.com/mHelenaR/mHelenaR/blob/output/github-contribution-grid-snake.svg)
 <br>
 <br> 
   ## Obrigado por visitar meu perfil!
